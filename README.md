@@ -1,2 +1,2 @@
 # GeneticAlgorithmProject
-3rd term finishing project - implementation of genetic algorithm
+3rd term final project - implementation of genetic algorithm for knapsack problem
